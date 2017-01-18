@@ -1,27 +1,21 @@
-Welcome to the Gomix BETA
-=========================
+Rupeek - Frontend Developer Test
 
-Click `"Show"` in the header to see your app live. Updates to your code will instantly deploy and update live.
+						
+Rules: 
 
-Gomix is a developer playground that lets you code a real web-app without the slow setup and deployment steps.
+You can use Google /  Stackoverflow 
+No third party APIs or libraries should be used to solve the problems ( use only default HTML, CSS, javascript) 
+Duration of test is 3 hours - Manage your time between problems.
 
-[About Gomix](https://gomix.com/about)
-
-
-Your Project
-------------
-
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env`
-
-On the front-end,
-- edit `client.js`, `style.css` and `index.html`
-- drag in `assets`, like images or music, to add them to your project
+Score Card
+Problem 1: 
+Problem 2:
+Problem 3:
 
 
-Made by Fog Creek
------------------
-
-\ ゜o゜)ノ
+Judging:
+General Criteria:
+Completeness of the solution vis-a-vis the problem statement 
+Overall thought process, approach and design 
+Uniqueness, coherence and structure of the solution
+Submission time 
